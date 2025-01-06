@@ -22,7 +22,7 @@ sudo crb enable
 
 # install basic packages via dnf
 echo "Installing basic packages via DNF..."
-sudo dnf install zsh stow neofetch curl python3-pip python3-wheel make gcc gcc-c++
+sudo dnf install zsh stow neofetch python3-pip python3-wheel make gcc gcc-c++
 
 # install Micro and zip it to /usr/bin/micro
 echo "Installing Micro..."
